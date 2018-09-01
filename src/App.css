@@ -1,0 +1,17 @@
+.container{
+  display: flex
+}
+.card{
+ display: flex;
+ margin-top: 57px;
+ background-color: azure;
+}
+.section1{
+  padding: 3%;
+}
+.section3{
+  text-align: center;
+  width: 48%;
+    margin-left: 26%;
+  
+}
